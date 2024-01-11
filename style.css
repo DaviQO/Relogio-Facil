@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+     box-sizing: border-box;
+     background: rgb(0, 8, 98);
+     font-family: 'Poppins', sans-serif;
+}
+
+.relogio {
+    text-align: center;
+    color: aliceblue;
+    font-weight: 900;
+    font-size: 100px;
+    margin-top: 350px;
+    text-shadow: 5px 5px 10px #00000045;
+    transition: all .5s ease-in;
+}
+
+.relogio:hover {
+    color: rgb(30, 255, 0);
+}
